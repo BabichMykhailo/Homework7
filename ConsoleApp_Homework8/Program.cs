@@ -27,7 +27,11 @@ namespace ConsoleApp_Homework8
                 }
                 else if (P.Key == ConsoleKey.I)
                 {
-                        Console.WriteLine(Storage.StorageCopacity());
+                    foreach(var i in Storage.products)
+                    {
+                        Console.WriteLine(i);
+                    }    
+                    Console.WriteLine(Storage.StorageCopacity());
                 }
                 else
                 {
@@ -40,7 +44,11 @@ namespace ConsoleApp_Homework8
                     Console.WriteLine("Enter Expiraration date");
                     Int32.TryParse(Console.ReadLine(), out expirationDate);
 
-                    Storage.products.Add(new Product(name, price, expirationDate));
+                    Console.WriteLine("Enter the date of delivery(yyyy/mm/dd):");
+                    string[] date = Console.ReadLine().Split('/');
+                    DateTime deliveryDate = new DateTime(int.Parse(date[0]), int.Parse(date[1]), int.Parse(date[2]));
+
+                    Storage.products.Add(new Product(name, price, expirationDate, deliveryDate));
                 }
             }
         }

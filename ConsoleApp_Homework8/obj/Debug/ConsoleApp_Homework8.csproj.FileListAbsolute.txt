@@ -8,3 +8,13 @@ C:\Users\Михаил\source\repos\Homework8\ConsoleApp_Homework8\obj\Debug\Cons
 C:\Users\Михаил\source\repos\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.csproj.CopyComplete
 C:\Users\Михаил\source\repos\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.exe
 C:\Users\Михаил\source\repos\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.pdb
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\bin\Debug\ConsoleApp_Homework8.exe.config
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\bin\Debug\ConsoleApp_Homework8.exe
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\bin\Debug\ConsoleApp_Homework8.pdb
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\bin\Debug\ClassLibrary_Homework.dll
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\bin\Debug\ClassLibrary_Homework.pdb
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.csproj.CopyComplete
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.exe
+C:\Users\Михаил\Desktop\Homework8\ConsoleApp_Homework8\obj\Debug\ConsoleApp_Homework8.pdb

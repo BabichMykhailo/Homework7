@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary_Homework
 {
-    public class Product
+    public partial class Product
     {
         public string Name { get; }
         public double Price { get; set; }
@@ -29,7 +29,7 @@ namespace ClassLibrary_Homework
 
         public override string ToString()
         {
-            return $"Name {Name}, Price {Price}, ExpirationDate {ExpirationDate}";
+            return $"Name {Name}, Price {Price}, ExpirationDate {ExpirationDate} ExpirationDay {ExpirationDay()}, DeliveryDay {DeliveryDay}";
         }
 
         public Product(string name, double price, int expirationDate, DateTime deliveryDay)

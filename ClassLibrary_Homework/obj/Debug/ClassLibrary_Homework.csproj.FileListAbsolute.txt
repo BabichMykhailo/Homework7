@@ -4,3 +4,9 @@ C:\Users\Михаил\source\repos\Homework8\ClassLibrary_Homework\obj\Debug\Cla
 C:\Users\Михаил\source\repos\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.csproj.CoreCompileInputs.cache
 C:\Users\Михаил\source\repos\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.dll
 C:\Users\Михаил\source\repos\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.pdb
+C:\Users\Михаил\Desktop\Homework8\ClassLibrary_Homework\bin\Debug\ClassLibrary_Homework.dll
+C:\Users\Михаил\Desktop\Homework8\ClassLibrary_Homework\bin\Debug\ClassLibrary_Homework.pdb
+C:\Users\Михаил\Desktop\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.dll
+C:\Users\Михаил\Desktop\Homework8\ClassLibrary_Homework\obj\Debug\ClassLibrary_Homework.pdb
