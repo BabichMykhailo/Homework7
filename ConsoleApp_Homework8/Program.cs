@@ -13,7 +13,7 @@ namespace ConsoleApp_Homework8
         static void Main(string[] args)
         {
             string name;
-            double price;
+            double price; 
             int expirationDate;
 
             while (true)
